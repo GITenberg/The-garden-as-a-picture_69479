@@ -7,12 +7,17 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '34059'
     url: http://www.gutenberg.org/2009/agents/34059
+covers:
+- cover_type: archival
+  image_path: 69479-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Beatrix
     gutenberg_agent_id: '55284'
     url: http://www.gutenberg.org/2009/agents/55284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69479#The-garden-as-a-picture
 gutenberg_issued: '2022-12-05'
 identifiers:
   gutenberg: '69479'
